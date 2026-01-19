@@ -233,4 +233,4 @@ This project is provided as-is for educational and personal use.
 
 ## Author
 
-PradaFit - https://github.com/PradaFit
+PradaFit - [GitHub](https://github.com/PradaFit) - [LinkedIn](https://www.linkedin.com/in/srdjanlopez/)
