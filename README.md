@@ -36,7 +36,7 @@ A Windows Forms cryptography toolkit for decryption, signature verification, and
 
 1. Clone the repository
 ```
-git clone https://github.com/PradaFit/Decrypter-By-SL-LLC.git
+git clone https://github.com/PradaFit/Crypto-Toolkit.git
 ```
 2. Open `Decrypter By SL LLC.sln` in Visual Studio
 3. Build the solution (Ctrl+Shift+B)
@@ -234,3 +234,4 @@ This project is provided as-is for educational and personal use.
 ## Author
 
 PradaFit - [GitHub](https://github.com/PradaFit) - [LinkedIn](https://www.linkedin.com/in/srdjanlopez/)
+
