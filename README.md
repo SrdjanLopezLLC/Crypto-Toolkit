@@ -1,4 +1,4 @@
-# Decrypter By SL LLC
+# Decrypter By Srdjan Lopez LLC
 
 A Windows Forms cryptography toolkit for decryption, signature verification, and file hashing.
 
@@ -233,5 +233,6 @@ This project is provided as-is for educational and personal use.
 
 ## Author
 
-PradaFit - [GitHub](https://github.com/PradaFit) - [LinkedIn](https://www.linkedin.com/in/srdjanlopez/)
+Srdjan Lopez LLC (SL LLC) - [GitHub](https://github.com/SrdjanLopezLLC)
+
 
