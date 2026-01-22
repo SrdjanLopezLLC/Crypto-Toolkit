@@ -1,6 +1,6 @@
 # 📄 LICENSE
 
-### © 2025 Srdjan Lopez LLC  
+### © 2026 Srdjan Lopez LLC  
 All Rights Reserved.
 
 ---
